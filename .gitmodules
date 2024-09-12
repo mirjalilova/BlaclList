@@ -1,3 +1,12 @@
 [submodule "api-gateway_blacklist"]
 	path = api-gateway_blacklist
 	url = https://github.com/mirjalilova/api-gateway_blacklist
+[submodule "auth-service-blacklist"]
+	path = auth-service-blacklist
+	url = https://github.com/mirjalilova/auth-service-blacklist
+[submodule "black_list"]
+	path = black_list
+	url = https://github.com/mirjalilova/black_list
+[submodule "black_list_submodule"]
+	path = black_list_submodule
+	url = https://github.com/mirjalilova/black_list_submodule
