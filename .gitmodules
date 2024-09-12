@@ -1,0 +1,3 @@
+[submodule "api-gateway_blacklist"]
+	path = api-gateway_blacklist
+	url = https://github.com/mirjalilova/api-gateway_blacklist
